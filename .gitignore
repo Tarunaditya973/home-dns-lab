@@ -1,0 +1,7 @@
+.DS_Store
+*.pem
+*.sig
+*.enc
+AdGuardHome/
+AdGuardHome.yaml
+querylog.json
